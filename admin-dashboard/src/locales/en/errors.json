@@ -1,0 +1,13 @@
+{
+    "default": "An unexpected error occurred. Please try again.",
+    "invalidRequest": "Invalid request. Please check your input.",
+    "unauthorized": "Invalid email or password.",
+    "emailInUse": "Email already in use.",
+    "passwordTooShort": "Password must be at least 6 characters long.",
+    "nameTooShort": "Full name must be at least 2 characters long.",
+    "sessionExpired": "Your session has expired. Please log in again.",
+    "notFound": "The requested resource was not found.",
+    "conflict": "A conflict occurred. Please try again.",
+    "internalServerError": "An internal server error occurred. Please try again later.",
+    "noResponse": "No response from the server. Please check your network connection."
+  }

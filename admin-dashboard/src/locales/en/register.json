@@ -1,0 +1,9 @@
+{
+  "title": "Register",
+  "name": "Full Name",
+  "email": "Email",
+  "password": "Password",
+  "submit": "Register",
+  "haveAccount": "Already have an account?",
+  "login": "Login"
+}

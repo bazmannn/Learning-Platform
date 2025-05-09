@@ -1,0 +1,16 @@
+{
+  "welcome": "مرحباً بكم في لوحة التحكم",
+  "totalTeachers": "إجمالي المعلمين",
+  "totalParents": "إجمالي أولياء الأمور",
+  "pendingRegistrations": "طلبات التسجيل المعلقة",
+  "totalStudents": "إجمالي الطلاب",
+  "manageTeachers": "إدارة المعلمين",
+  "manageTeachersDescription": "عرض وإدارة جميع المعلمين.",
+  "goToTeachers": "الذهاب إلى المعلمين",
+  "manageParents": "إدارة أولياء الأمور",
+  "manageParentsDescription": "عرض وإدارة جميع أولياء الأمور.",
+  "goToParents": "الذهاب إلى أولياء الأمور",
+  "viewGrades": "عرض الدرجات",
+  "viewGradesDescription": "عرض وإدارة درجات الطلاب.",
+  "goToGrades": "الذهاب إلى الدرجات"
+}

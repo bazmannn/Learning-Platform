@@ -1,0 +1,16 @@
+{
+  "welcome": "Welcome to the Admin Dashboard",
+  "totalTeachers": "Total Teachers",
+  "totalParents": "Total Parents",
+  "pendingRegistrations": "Pending Registrations",
+  "totalStudents": "Total Students",
+  "manageTeachers": "Manage Teachers",
+  "manageTeachersDescription": "View and manage all teachers.",
+  "goToTeachers": "Go to Teachers",
+  "manageParents": "Manage Parents",
+  "manageParentsDescription": "View and manage all parents.",
+  "goToParents": "Go to Parents",
+  "viewGrades": "View Grades",
+  "viewGradesDescription": "View and manage student grades.",
+  "goToGrades": "Go to Grades"
+}

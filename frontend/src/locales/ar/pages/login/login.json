@@ -1,0 +1,9 @@
+{
+  "title": "تسجيل الدخول",
+  "username": "Username",
+  "password": "Password",
+  "submit": "Login",
+  "forgotPassword": "Forgot password?",
+  "register": "Register",
+  "loginError": "Invalid username or password"
+}
