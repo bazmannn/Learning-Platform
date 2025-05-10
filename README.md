@@ -66,6 +66,12 @@ A multi-role, multilingual educational web application built with React. This pl
 - **i18next** – Internationalization
 - **Context API** – Theme, auth, and language management
 
+## 🖥️ Backend Tech Stack
+- **Express.js** – Web framework for building REST APIs
+- **TypeScript** – Type-safe backend logic
+- **Prisma ORM** – Modern database toolkit for type-safe database access
+Backend handles authentication, user roles, course and student data, and enrollment logic.
+
 
 
 ## 📦 Getting Started
