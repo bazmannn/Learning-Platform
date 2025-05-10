@@ -173,20 +173,6 @@ const StudentDetails = () => {
 
           <div>
             <label className="block text-sm font-medium mb-1">
-              {t("className")}
-            </label>
-            <input
-              type="text"
-              name="className"
-              value={formData.className}
-              onChange={handleInputChange}
-              className="w-full p-2 border rounded dark:bg-gray-800 dark:border-gray-700"
-              required
-            />
-          </div>
-
-          <div>
-            <label className="block text-sm font-medium mb-1">
               {t("parentId")}
             </label>
             <input
