@@ -99,7 +99,6 @@ const StudentDetails = () => {
       await updateStudent(studentId, {
         firstName: formData.firstName,
         lastName: formData.lastName,
-        className: formData.className,
         parentId: formData.parentId,
       });
       alert("Student updated successfully!");
